@@ -19,7 +19,7 @@
 ✅ Seamless booking acceptance process.</br>
 ✅ Robust sales reporting for data-driven decisions.</br>
 </br>
-👨‍💻 Admin side:
+👨‍💻 Admin side:</br>
 ✅ Dashboard with sales charts and analytics for quick insights.</br>
 ✅ User, provider, service, location, and order management.</br>
 ✅ Streamlined provider verification process for trusted professionals.</br>
